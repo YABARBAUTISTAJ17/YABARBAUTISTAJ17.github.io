@@ -31,13 +31,14 @@
     
 }
 #nombres2 p{
-    padding: 3px;
+    padding: 3px; 
 }
 
 #header{
     margin: auto;
-    width: 400px;
+    width: 20px;
     font-family: 'Times New Roman', Times, serif;
+    margin-left: 1100px;
 }
 
 ul, ol{
@@ -69,4 +70,12 @@ ul, ol{
 
 .nav li:hover > ul {
     display: block;
+}
+.nav{
+    width: 350px;
+}
+
+body{ 
+    background-image: url(/bocchi-background.jpeg) ;
+    background-size: 100%;
 }
