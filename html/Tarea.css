@@ -1,0 +1,25 @@
+#tareahead{
+    width: 70%;
+    background-color: rgb(180, 182, 98);
+    margin: 30px;
+    padding: 20px;
+
+}
+
+#subheader {
+    margin-top: 10px;
+}
+
+#title{
+    display: inline;
+    background-color: rgb(28, 184, 88);
+    padding: 10px;
+    
+}
+
+#text-container{
+    background-color: rgb(228, 193, 40);
+    width: 90%;
+    margin: 30px;
+    padding: 10px;
+}
