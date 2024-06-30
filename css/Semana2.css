@@ -1,0 +1,49 @@
+#semana2{
+    display: block;
+
+}
+
+#sem2{
+    width: 50%;
+    height: 600px;
+}
+
+#sem3{
+    width: 50%;
+    height: 600px;
+    
+
+}
+
+#pdf1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#pdf2{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h2{
+    background-color: rgb(223, 150, 61);
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+#vid{
+    margin: 15%;
+    
+}
