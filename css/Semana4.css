@@ -25,3 +25,15 @@
     width: 70%;
     height: 600px;
 }
+
+.vid{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 15%;
+    width: 70%;
+    height: 700px;
+    
+}
