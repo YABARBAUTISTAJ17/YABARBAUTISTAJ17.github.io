@@ -1,3 +1,27 @@
-#titles{
-    background-color: rgb(137, 84, 187);
+#titles1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'sans-serif', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    background-color: rgb(218, 168, 60);
+    margin: 20px;
+    padding: 10px;
+}
+
+#info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.info1{
+    width: 70%;
+    height: 600px;
+    margin: 20px;
+}
+
+.info2{
+    width: 70%;
+    height: 600px;
 }
